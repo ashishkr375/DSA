@@ -1,5 +1,10 @@
 # Comprehensive DSA Pattern Map with LeetCode Questions
 
+## Roadmap:
+The roadmap provides a structured approach to mastering Data Structures and Algorithms, progressing from fundamental to advanced topics. Each section includes recommended LeetCode problems to reinforce concepts.
+[Click Here to View](https://github.com/ashishkr375/DSA/blob/main/dsa-roadmap.md#data-structures-and-algorithms-roadmap)
+
+
 ## 1. Array Patterns
 
 ### 1.1 Two Pointer Technique
